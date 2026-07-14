@@ -1,4 +1,5 @@
-#Final Project for CSE 493G: Deep Learning at the University of Washington
+# Final Project for CSE 493G: Deep Learning at the University of Washington
+
 By Viba Raghunathan, Aditi Rana, Jessica Massey
 
 
